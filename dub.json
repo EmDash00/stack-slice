@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"emdash00"
+	],
+	"copyright": "Copyright © 2020, emdash00",
+	"dependencies": {
+		"mir": "~>3.2.0",
+		"mir-algorithm": "~>3.7.16"
+	},
+	"description": "Static mir slices",
+	"license": "proprietary",
+	"name": "slice2"
+}
